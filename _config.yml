@@ -9,7 +9,7 @@
 title: "Pieter Belmans"
 email: pbelmans@math.uni-bonn.de
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+#url: "" # the base hostname & protocol for your site
 
 permalink: /blog/:year/:month/:day/:title/
 
